@@ -1,4 +1,4 @@
-# ansible-docker-sandbox
+# dockerised-ansible-sandbox
 
 Dockerised Ansible container & example host for testing, education and evaluation
 
