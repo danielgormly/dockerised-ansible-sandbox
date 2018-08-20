@@ -1,0 +1,2 @@
+./ansible/id_ecdsa
+./client/id_ecdsa.pub
